@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ArtursuTelagisov
+
 
 fun main (){
 println (Hello work)
