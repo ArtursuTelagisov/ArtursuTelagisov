@@ -1,18 +1,18 @@
 text 
 
 fun main (){
-println (Hello work)
+println (Hello world)
   println(Text-to-Speech)
 name=bookletsText {
  int isDeprecated=true 
-int isSerializablePojos=false
+int isDatabase=false
 import 
 Org.telegram.telegramtext
 import 
 Org.telegram.telegramBots
 telegram Bots.updat
  /*application/text settings/videoStudio/
-printlnText.android/programming.textStudio.vudioStudio/
+printlnText.android/programming.textStudio.audioStudio/
 kotlin programming/Java programming/
 and true*/
 for (I in 1..10)
